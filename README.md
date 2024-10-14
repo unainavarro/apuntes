@@ -1,5 +1,7 @@
 <h1 align='center'>Apuntes</h1>
 
+Este repositorio recopila apuntes de programación realizados durante un repaso intensivo. Aquí encontrarás resúmenes concisos, ejemplos clave y aclaraciones de conceptos importantes de diversos lenguajes y tecnologías. <mark>Está pensado como una referencia rápida y efectiva para reforzar conocimientos adquiridos.</mark>
+
 <h2>📑 Contenido</h2>
 
 - [🧠 Conceptos](#-conceptos)
@@ -76,13 +78,14 @@
 </details>
 <!-- [FIN]Bases de datos -->
 
-<!-- Bases de datos -->
+<!-- Control de versiones -->
 <details>
   <summary>📁 Control de versiones</summary>
   <ul>
-    <li><a href=""></a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/06-control-de-versiones/01-control_de_versiones.md">Control de versiones</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/06-control-de-versiones/02-alojamiento_de_repositorios.md">Alojamiento de repositorios</a></li>
 </details>
-<!-- [FIN]Bases de datos -->
+<!-- [FIN]Control de versiones -->
 
 ---
 
