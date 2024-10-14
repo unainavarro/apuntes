@@ -2,12 +2,9 @@
 
 <h2>📑 Contenido</h2>
 
-- [🗃️ Apuntes](#️-apuntes)
-  - [🧠 Conceptos](#-conceptos)
+- [🧠 Conceptos](#-conceptos)
 
-## 🗃️ Apuntes
-
-### 🧠 Conceptos
+## 🧠 Conceptos
 
 <!-- Fundamentos -->
 <details>
@@ -20,34 +17,34 @@
 
 ---
 
-<!-- ### 🧩 Misceláneos
+<!-- ## 🧩 Misceláneos
 
 ---
 
-### ☕ Java
+## ☕ Java
 
 ---
 
-### 🛢️ SQL
+## 🛢️ SQL
 
 ---
 
-### 🩻 HTML
+## 🩻 HTML
 
 ---
 
-### 🎨 CSS
+## 🎨 CSS
 
 ---
 
-### 🚀 JavaScript
+## 🚀 JavaScript
 
 ---
 
-### 🔒 TypeScript
+## 🔒 TypeScript
 
 ---
 
-### 🌱 NodeJs
+## 🌱 NodeJs
 
 --- -->
