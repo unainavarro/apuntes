@@ -87,6 +87,23 @@ Este repositorio recopila apuntes de programación realizados durante un repaso 
 </details>
 <!-- [FIN]Control de versiones -->
 
+<!-- Modelos y Metodologías -->
+<details>
+  <summary>📁 Modelos y Metodologías</summary>
+  <ul>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/07-Modelos y Metodologias/01-modelos_metodologias.md">Modelos y metodologías</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/07-Modelos%20y%20Metodologias/02-modelo_en_cascada.md">Modelo en cascada</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/07-Modelos%20y%20Metodologias/03-modelo_en_v.md">Modelo en V</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/07-Modelos%20y%20Metodologias/04-modelo_incremental.md">Modelo incremental</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/07-Modelos%20y%20Metodologias/05-modelo_interactivo.md">Modelos interactivo</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/07-Modelos%20y%20Metodologias/06-modelo_espiral.md">Modelo en espiral</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/07-Modelos%20y%20Metodologias/07-agile.md">Agile</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/07-Modelos%20y%20Metodologias/08-scrum.md">Scrum</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/07-Modelos%20y%20Metodologias/09-kanban.md">Kanban</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/07-Modelos%20y%20Metodologias/10-extreme_programming.md">Extreme programming</a></li>
+</details>
+<!-- [FIN]Modelos y Metodologías -->
+
 ---
 
 <!-- ## 🧩 Misceláneos
