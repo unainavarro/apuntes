@@ -104,6 +104,54 @@ Este repositorio recopila apuntes de programación realizados durante un repaso 
 </details>
 <!-- [FIN]Modelos y Metodologías -->
 
+<!-- Arquitectura de Software -->
+<details>
+  <summary>📁 Arquitectura de Software</summary>
+  <ul>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/08-arquitectura-de-software/01-arquitectura_de_software.md">Arquitectura de software</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/08-arquitectura-de-software/02-modelo_vista_controlador.md">Modelo Vista controlador</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/08-arquitectura-de-software/03-arquitectura_monolitica.md">Arquitectura monolítica</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/08-arquitectura-de-software/04-arquitectura_en_capas.md">Arquitectura en capas</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/08-arquitectura-de-software/05-arquitectura_cliente_servidor.md">Arquitectura cliente servidor</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/08-arquitectura-de-software/06-arquitectura_microservicios.md">Arquitectura microservicios</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/08-arquitectura-de-software/07-arquitectura_soa.md">Arquitectura SOA</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/08-arquitectura-de-software/08-arquitectura_en_n_capas.md">Arquitectura en n capas</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/08-arquitectura-de-software/09-arquitectura_evento_driven.md">Arquitectura evento driven</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/08-arquitectura-de-software/10-arquitectura_capas_hexagonal.md">Arquitectura capas hexagonales</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/08-arquitectura-de-software/11-arquitectura_basada_en_componentes.md">Arquitectura basada en componentes</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/08-arquitectura-de-software/12-arquitectura_en_la_nube.md">Arquitectura en la nube</a></li>
+</details>
+<!-- [FIN]Arquitectura de Software -->
+
+<!-- Paradigmas de programación -->
+<details>
+  <summary>📁 Paradigmas de programación</summary>
+  <ul>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/09-paradigmas-de-programacion/01-imperativa.md">Imperativas</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/09-paradigmas-de-programacion/02-declarativa.md">Declarativa</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/09-paradigmas-de-programacion/03-funcional.md">Funcional</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/09-paradigmas-de-programacion/04-orientada_a_objetos.md">Orientada a objetos</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/09-paradigmas-de-programacion/05-logica.md">Lógica</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/09-paradigmas-de-programacion/06-basada_en_componentes.md">Basada en componentes</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/09-paradigmas-de-programacion/07-concurrente.md">Concurrente</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/09-paradigmas-de-programacion/08-reactiva.md">Reactiva</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/09-paradigmas-de-programacion/09-basada_en_eventos.md">Basada en eventos</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/09-paradigmas-de-programacion/10-aspecto-orientada.md">Aspecto orientada</a></li>
+</details>
+<!-- [FIN]Paradigmas de programación -->
+
+<!-- Patrones de diseño -->
+<details>
+  <summary>📁 Patrones de diseño</summary>
+  <ul>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/10-patrones-de-dise%C3%B1o/01-creacion.md">Creación</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/10-patrones-de-dise%C3%B1o/02-estructurales.md">Estructurales</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/10-patrones-de-dise%C3%B1o/03-comportamiento.md">Comportamiento</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/10-patrones-de-dise%C3%B1o/04-arquitectonicos.md">Arquitectónicos</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/10-patrones-de-dise%C3%B1o/05-concurrencia.md">Concurrencia</a></li>
+</details>
+<!-- [FIN]Patrones de diseño -->
+
 ---
 
 <!-- ## 🧩 Misceláneos
