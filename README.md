@@ -5,6 +5,7 @@ Este repositorio recopila apuntes de programación realizados durante un repaso 
 <h2>📑 Contenido</h2>
 
 - [🧠 Conceptos](#-conceptos)
+- [🧩 Misceláneos](#-misceláneos)
 
 ## 🧠 Conceptos
 
@@ -152,13 +153,100 @@ Este repositorio recopila apuntes de programación realizados durante un repaso 
 </details>
 <!-- [FIN]Patrones de diseño -->
 
+<!-- Principios SOLID y Clean Code -->
+<details>
+  <summary>📁 Principios SOLID y Clean Code</summary>
+  <ul>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/11-principios-solid-clean-code/01-principios_solid.md">Principios SOLID</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/11-principios-solid-clean-code/02-clean_code.md">Clean Code</a></li>
+</details>
+<!-- [FIN]Principios SOLID y Clean Code -->
+
+<!-- Seguridad -->
+<details>
+  <summary>📁 Seguridad</summary>
+  <ul>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/12-seguridad/01-protocolos_de_seguridad.md">Protocolos de seguridad</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/12-seguridad/02-criptografia.md">Criptografía</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/12-seguridad/03-algoritmos.md">Algoritmos</a></li>
+</details>
+<!-- [FIN]Seguridad -->
+
+<!-- Testing -->
+<details>
+  <summary>📁 Testing</summary>
+  <ul>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/13-testing/01-quality_assurance.md">Quality assurance</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/13-testing/02-unitarias.md">Unitarias</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/13-testing/03-integracion.md">Integración</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/13-testing/04-funcionales.md">Funcionales</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/13-testing/05-sistema.md">Sistema</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/13-testing/06-aceptacion.md">Aceptación</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/13-testing/07-regresion.md">Regresión</a></li>
+    <li><a href="">Rendimiento</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/13-testing/09-carga.md">Carga</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/13-testing/10-estres.md">Estrés</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/13-testing/11-usabilidad.md">Usabilidad</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/13-testing/12-seguridad.md">Seguridad</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/13-testing/13-compatibilidad.md">Compatibilidad</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/13-testing/14-interfaz_de_usuario.md">Interfaz de usuario</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/13-testing/15-caja_blanca.md">Caja blanca</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/13-testing/16-caja_negra.md">Caja negra</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/13-testing/17-humo.md">Humo</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/13-testing/18-sanidad.md">Sanidad</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/13-testing/19-instalacion.md">Instalación</a></li>
+</details>
+<!-- [FIN]Testing -->
+
+<!-- Mix -->
+<details>
+  <summary>📁 Mix</summary>
+  <ul>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/14-mix/01-refactorizar.md">Refactorización</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/14-mix/02-depurar.md">Depurar</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/14-mix/03-code_review.md">Code Review</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/14-mix/04-api.md">API</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/14-mix/05-restful.md">REST y RESTful</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/14-mix/06-soap.md">SOAP</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/14-mix/07-contenedores.md">Contenedores</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/14-mix/08-web_service.md">Web Services</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/14-mix/09-json.md">JSON</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/14-mix/10-metadatos.md">Metadatos</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/00-conceptos/14-mix/11-hilos.md">Hilos</a></li>
+</details>
+<!-- [FIN]Mix -->
+
 ---
 
-<!-- ## 🧩 Misceláneos
+## 🧩 Misceláneos
+
+<!-- Control de Versiones -->
+<details>
+  <summary>📁 Control de Versiones</summary>
+  <ul>
+    <li><a href=""></a></li>
+</details>
+<!-- [FIN]Control de Versiones -->
+
+<!-- Markdown -->
+<details>
+  <summary>📁 Markdown</summary>
+  <ul>
+    <li><a href=""></a></li>
+</details>
+<!-- [FIN]Markdown -->
+
+<!-- Emmet -->
+<details>
+  <summary>📁 Emmet</summary>
+  <ul>
+    <li><a href=""></a></li>
+</details>
+<!-- [FIN]Emmet -->
 
 ---
 
-## ☕ Java
+<!-- ## ☕ Java
 
 ---
 
