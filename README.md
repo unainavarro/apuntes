@@ -292,7 +292,10 @@ Este repositorio recopila apuntes de programación realizados durante un repaso 
 <details>
   <summary>📁 Input Output</summary>
   <ul>
-    <li><a href=""></a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/02-input_output/01-imprimir_datos.md">Imprimir datos</a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/02-input_output/02-scanner.md">Scanner</a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/02-input_output/03-bufferedreader.md">BufferedReader</a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/02-input_output/04-salida_formateada.md">Salida formateada</a>
 </details>
 <!-- [FIN]Input Output -->
 
