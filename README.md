@@ -330,7 +330,11 @@ Este repositorio recopila apuntes de programación realizados durante un repaso 
 <details>
   <summary>📁 Arrays</summary>
   <ul>
-    <li><a href=""></a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/05-arrays/01-arrays.md">Arrays</a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/05-arrays/02-multidimensional.md">Multidimensional</a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/05-arrays/03-clase_array.md">Clase array</a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/05-arrays/04-array_irregulares.md">Array irregulares</a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/05-arrays/05-final.md">Final</a>
 </details>
 <!-- [FIN]Arrays -->
 
@@ -338,7 +342,16 @@ Este repositorio recopila apuntes de programación realizados durante un repaso 
 <details>
   <summary>📁 POO</summary>
   <ul>
-    <li><a href=""></a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/06-poo/01-introduccion.md">Introducción</a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/06-poo/02-constructores.md">Constructores</a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/06-poo/02-modificadores_de_acceso.md">Modificadores de acceso</a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/06-poo/03-clases_objetos.md">Clase Objeto</a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/06-poo/04-herencia.md">Herencia</a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/06-poo/05-polimorfismo.md">Polimorfismo</a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/06-poo/06-abstraccion.md">Abstracción</a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/06-poo/07-encapsulacion.md">Encapsulación</a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/06-poo/08-this.md">This</a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/06-poo/09-paquetes.md">Paquetes</a>
 </details>
 <!-- [FIN]POO -->
 
@@ -354,7 +367,58 @@ Este repositorio recopila apuntes de programación realizados durante un repaso 
 <details>
   <summary>📁 Colecciones</summary>
   <ul>
-    <li><a href=""></a>
+    <li>
+      <details>
+        <summary>📁 Listas</summary>
+        <ul>
+          <li><a href="">Array list</a></li>
+          <li><a href="">Linked list</a></li>
+          <li><a href=""></a></li>
+          <li><a href=""></a></li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>📁 Conjuntos</summary>
+        <ul>
+          <li><a href=""></a></li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>📁 Mapas</summary>
+        <ul>
+          <li><a href=""></a></li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>📁 Colas</summary>
+        <ul>
+          <li><a href=""></a></li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>📁 Colecciones Sincronizadas</summary>
+        <ul>
+          <li><a href=""></a></li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>📁 Otros</summary>
+        <ul>
+          <li><a href=""></a></li>
+        </ul>
+      </details>
+    </li>
+  </ul>
 </details>
 <!-- [FIN]Colecciones -->
 
