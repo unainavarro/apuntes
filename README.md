@@ -442,7 +442,12 @@ Este repositorio recopila apuntes de programación realizados durante un repaso 
 <details>
   <summary>📁 Java 8</summary>
   <ul>
-    <li><a href=""></a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/09-java_8/01-expresiones_lambda.md">Expresiones Lambda</a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/09-java_8/02-stream_api.md">Stream API</a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/09-java_8/03-fecha_api.md">Fecha API</a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/09-java_8/04-interfaces.md">Interfaces</a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/09-java_8/05-anotaciones.md">Anotaciones</a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/09-java_8/06-string_joiner.md">String  Joiner</a>
 </details>
 <!-- [FIN]Java 8 -->
 
@@ -450,7 +455,9 @@ Este repositorio recopila apuntes de programación realizados durante un repaso 
 <details>
   <summary>📁 BBDD</summary>
   <ul>
-    <li><a href=""></a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/10-bbdd/01-jdbc.md">JDBC</a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/10-bbdd/02-jdbc_poo.md">JDBC POO</a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/10-bbdd/03-jdbc_pool.md">JDBC Pool</a>
 </details>
 <!-- [FIN]BBDD -->
 
