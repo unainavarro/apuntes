@@ -359,7 +359,12 @@ Este repositorio recopila apuntes de programación realizados durante un repaso 
 <details>
   <summary>📁 Clases integradas</summary>
   <ul>
-    <li><a href=""></a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/07-clases_integradas/01-clases_integradas.md">Clases integradas</a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/07-clases_integradas/02-string.md">String</a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/07-clases_integradas/03-math.md">Math</a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/07-clases_integradas/04-system.md">System</a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/07-clases_integradas/05-old_date.md">Old Date</a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/07-clases_integradas/06-file.md">File</a>
 </details>
 <!-- [FIN]Clases integradas -->
 
@@ -371,10 +376,10 @@ Este repositorio recopila apuntes de programación realizados durante un repaso 
       <details>
         <summary>📁 Listas</summary>
         <ul>
-          <li><a href="">Array list</a></li>
-          <li><a href="">Linked list</a></li>
-          <li><a href=""></a></li>
-          <li><a href=""></a></li>
+          <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/08-colecciones/01-listas/01-arraylist.md">Array list</a></li>
+          <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/08-colecciones/01-listas/02-linkedlist.md">Linked list</a></li>
+          <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/08-colecciones/01-listas/03-vector.md">Vector</a></li>
+          <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/08-colecciones/01-listas/04-stack.md">Stack</a></li>
         </ul>
       </details>
     </li>
@@ -382,7 +387,10 @@ Este repositorio recopila apuntes de programación realizados durante un repaso 
       <details>
         <summary>📁 Conjuntos</summary>
         <ul>
-          <li><a href=""></a></li>
+          <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/08-colecciones/02-conjuntos/01-set.md">Set</a></li>
+          <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/08-colecciones/02-conjuntos/02-hashset.md">HashSet</a></li>
+          <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/08-colecciones/02-conjuntos/03-linkedhashset.md">LinkedHashSet</a></li>
+          <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/08-colecciones/02-conjuntos/04-treeset.md">TreeSet</a></li>
         </ul>
       </details>
     </li>
@@ -390,7 +398,10 @@ Este repositorio recopila apuntes de programación realizados durante un repaso 
       <details>
         <summary>📁 Mapas</summary>
         <ul>
-          <li><a href=""></a></li>
+          <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/08-colecciones/03-mapas/01-map.md">Map</a></li>
+          <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/08-colecciones/03-mapas/02-hashmap.md">HashMap</a></li>
+          <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/08-colecciones/03-mapas/03-linkedhashmap.md">LinkedHashMap</a></li>
+          <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/08-colecciones/03-mapas/04-treemap.md">TreeMap</a></li>
         </ul>
       </details>
     </li>
@@ -398,7 +409,9 @@ Este repositorio recopila apuntes de programación realizados durante un repaso 
       <details>
         <summary>📁 Colas</summary>
         <ul>
-          <li><a href=""></a></li>
+          <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/08-colecciones/04-colas/01-queue.md">Queue</a></li>
+          <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/08-colecciones/04-colas/02-priorityqueue.md">PriorityQueue</a></li>
+          <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/08-colecciones/04-colas/03-arraydeque.md">ArrayDeque</a></li>
         </ul>
       </details>
     </li>
@@ -406,7 +419,9 @@ Este repositorio recopila apuntes de programación realizados durante un repaso 
       <details>
         <summary>📁 Colecciones Sincronizadas</summary>
         <ul>
-          <li><a href=""></a></li>
+          <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/08-colecciones/05-colecciones_sincronizadas/01-collections_synchronizedlist.md">Collections synchronizedList</a></li>
+          <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/08-colecciones/05-colecciones_sincronizadas/02-collections_synchronizedset.md">Collections synchronizedSet</a></li>
+          <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/08-colecciones/05-colecciones_sincronizadas/03-collections_synchronizedmap.md">Collections synchronizedMap</a></li>
         </ul>
       </details>
     </li>
@@ -414,7 +429,8 @@ Este repositorio recopila apuntes de programación realizados durante un repaso 
       <details>
         <summary>📁 Otros</summary>
         <ul>
-          <li><a href=""></a></li>
+          <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/08-colecciones/06-otros/01-bitset.md">BitSet</a></li>
+          <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/08-colecciones/06-otros/02-enumset.md">EnumSet</a></li>
         </ul>
       </details>
     </li>
