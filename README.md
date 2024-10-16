@@ -315,7 +315,14 @@ Este repositorio recopila apuntes de programación realizados durante un repaso 
 <details>
   <summary>📁 Métodos</summary>
   <ul>
-    <li><a href=""></a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/04-metodos/01-metodos.md">Métodos</a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/04-metodos/02-tipos_de_retorno.md">Tipos de retorno</a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/04-metodos/03-parametros.md">Parámetros</a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/04-metodos/04-modificadores_de_acceso.md">Modificadores de acceso</a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/04-metodos/05-this.md">This</a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/04-metodos/06-tipos.md">Tipos</a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/04-metodos/07-sobrecarga.md">Sobrecarga</a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/04-metodos/08-sobrescritura.md">Sobrescritura</a>
 </details>
 <!-- [FIN]Métodos -->
 
