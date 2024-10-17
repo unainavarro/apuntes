@@ -8,10 +8,7 @@ Este repositorio recopila apuntes de programación realizados durante un repaso 
 - [🧩 Misceláneos](#-misceláneos)
 - [☕ Java](#-java)
 - [🛢️ SQL](#️-sql)
-- [🎨 CSS](#-css)
-- [🚀 JavaScript](#-javascript)
-- [🔒 TypeScript](#-typescript)
-- [🌱 NodeJs](#-nodejs)
+- [🩻 HTML](#-html)
 
 ## 🧠 Conceptos
 
@@ -493,7 +490,7 @@ Este repositorio recopila apuntes de programación realizados durante un repaso 
 
 ---
 
-<!-- ## 🩻 HTML
+ ## 🩻 HTML
 
 <!-- Fundamentos -->
 <details>
@@ -540,7 +537,7 @@ Este repositorio recopila apuntes de programación realizados durante un repaso 
 
 ---
 
-## 🎨 CSS
+<!-- ## 🎨 CSS
 
 ---
 
