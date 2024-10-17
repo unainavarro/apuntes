@@ -7,6 +7,7 @@ Este repositorio recopila apuntes de programación realizados durante un repaso 
 - [🧠 Conceptos](#-conceptos)
 - [🧩 Misceláneos](#-misceláneos)
 - [☕ Java](#-java)
+- [🛢️ SQL](#️-sql)
 
 ## 🧠 Conceptos
 
@@ -273,18 +274,18 @@ Este repositorio recopila apuntes de programación realizados durante un repaso 
 <details>
   <summary>📁 Fundamentos</summary>
   <ul>
-    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/01-fundamentos/01-introduccion.md">Introducción</a>
-    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/01-fundamentos/02-instalaciones.md">Instalaciones</a>
-    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/01-fundamentos/03-glosario.md">Glosario</a>
-    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/01-fundamentos/04-palabras_reservadas.md">Palabras reservadas</a>
-    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/01-fundamentos/05-compilacion_ejecucion.md">Compilación y ejecución</a>
-    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/01-fundamentos/06-entrada_principal.md">Entrada principal</a>
-    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/01-fundamentos/07-variables.md">Variables</a>
-    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/01-fundamentos/08-constantes.md">Constantes</a>
-    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/01-fundamentos/09-tipos_de_datos.md">Tipos de datos</a>
-    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/01-fundamentos/10-operadores.md">Operadores</a>
-    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/01-fundamentos/11-comentarios.md">Comentarios</a>
-    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/01-fundamentos/12-convencion_de_nombres.md">Convención de nombres</a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/01-fundamentos/01-introduccion.md">Introducción</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/01-fundamentos/02-instalaciones.md">Instalaciones</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/01-fundamentos/03-glosario.md">Glosario</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/01-fundamentos/04-palabras_reservadas.md">Palabras reservadas</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/01-fundamentos/05-compilacion_ejecucion.md">Compilación y ejecución</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/01-fundamentos/06-entrada_principal.md">Entrada principal</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/01-fundamentos/07-variables.md">Variables</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/01-fundamentos/08-constantes.md">Constantes</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/01-fundamentos/09-tipos_de_datos.md">Tipos de datos</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/01-fundamentos/10-operadores.md">Operadores</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/01-fundamentos/11-comentarios.md">Comentarios</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/01-fundamentos/12-convencion_de_nombres.md">Convención de nombres</a></li>
 </details>
 <!-- [FIN]Fundamentos -->
 
@@ -442,12 +443,12 @@ Este repositorio recopila apuntes de programación realizados durante un repaso 
 <details>
   <summary>📁 Java 8</summary>
   <ul>
-    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/09-java_8/01-expresiones_lambda.md">Expresiones Lambda</a>
-    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/09-java_8/02-stream_api.md">Stream API</a>
-    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/09-java_8/03-fecha_api.md">Fecha API</a>
-    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/09-java_8/04-interfaces.md">Interfaces</a>
-    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/09-java_8/05-anotaciones.md">Anotaciones</a>
-    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/09-java_8/06-string_joiner.md">String  Joiner</a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/09-java_8/01-expresiones_lambda.md">Expresiones Lambda</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/09-java_8/02-stream_api.md">Stream API</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/09-java_8/03-fecha_api.md">Fecha API</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/09-java_8/04-interfaces.md">Interfaces</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/09-java_8/05-anotaciones.md">Anotaciones</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/09-java_8/06-string_joiner.md">String  Joiner</a></li>
 </details>
 <!-- [FIN]Java 8 -->
 
@@ -455,19 +456,40 @@ Este repositorio recopila apuntes de programación realizados durante un repaso 
 <details>
   <summary>📁 BBDD</summary>
   <ul>
-    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/10-bbdd/01-jdbc.md">JDBC</a>
-    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/10-bbdd/02-jdbc_poo.md">JDBC POO</a>
-    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/10-bbdd/03-jdbc_pool.md">JDBC Pool</a>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/10-bbdd/01-jdbc.md">JDBC</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/10-bbdd/02-jdbc_poo.md">JDBC POO</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/02-java/10-bbdd/03-jdbc_pool.md">JDBC Pool</a></li>
 </details>
 <!-- [FIN]BBDD -->
 
 ---
 
-<!-- ## 🛢️ SQL
+## 🛢️ SQL
+
+<!-- SQL -->
+<details>
+  <summary>📁 SQL</summary>
+  <ul>
+    <li><a href="">Introducción</a></li>
+    <li><a href="">Sintaxis básica</a></li>
+    <li><a href="">Lenguaje de definición de datos</a></li>
+    <li><a href="">Lenguaje de manipulación de datos</a></li>
+    <li><a href="">Consultas agregadas</a></li>
+    <li><a href="">Restricciones de datos</a></li>
+    <li><a href="">Consultas de union</a></li>
+    <li><a href="">Sub consultas</a></li>
+    <li><a href="">Funciones avanzadas</a></li>
+    <li><a href="">Vistas</a></li>
+    <li><a href="">Indices</a></li>
+    <li><a href="">Transacciones</a></li>
+    <li><a href="">Optimización</a></li>
+    <li><a href="">Conceptos avanzados</a></li>
+</details>
+<!-- [FIN]SQL -->
 
 ---
 
-## 🩻 HTML
+<!-- ## 🩻 HTML
 
 ---
 
