@@ -3,6 +3,11 @@
 <h2>📑 Contenido</h2>
 
 - [Restricciones de datos](#restricciones-de-datos)
+- [Restricciones de clave primaria (Primary Key Constraints)](#restricciones-de-clave-primaria-primary-key-constraints)
+- [Restricciones de clave foránea (Foreign Key Constraints)](#restricciones-de-clave-foránea-foreign-key-constraints)
+- [Restricciones de unicidad (Unique Constraints)](#restricciones-de-unicidad-unique-constraints)
+- [Restricciones de verificación (Check Constraints)](#restricciones-de-verificación-check-constraints)
+- [NOT NULL](#not-null)
 
 ## Restricciones de datos
 

@@ -3,6 +3,13 @@
 <h2>📑 Contenido</h2>
 
 - [Optimización](#optimización)
+- [Índices eficientes](#índices-eficientes)
+- [Consulta eficiente](#consulta-eficiente)
+- [Normalización y desnormalización](#normalización-y-desnormalización)
+- [Uso adecuado de JOINS](#uso-adecuado-de-joins)
+- [Optimización de la carga](#optimización-de-la-carga)
+- [Afinación del servidor de base de datos](#afinación-del-servidor-de-base-de-datos)
+- [Monitoreo y ajuste continuo](#monitoreo-y-ajuste-continuo)
 
 ## Optimización
 

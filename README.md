@@ -470,20 +470,20 @@ Este repositorio recopila apuntes de programación realizados durante un repaso 
 <details>
   <summary>📁 SQL</summary>
   <ul>
-    <li><a href="">Introducción</a></li>
-    <li><a href="">Sintaxis básica</a></li>
-    <li><a href="">Lenguaje de definición de datos</a></li>
-    <li><a href="">Lenguaje de manipulación de datos</a></li>
-    <li><a href="">Consultas agregadas</a></li>
-    <li><a href="">Restricciones de datos</a></li>
-    <li><a href="">Consultas de union</a></li>
-    <li><a href="">Sub consultas</a></li>
-    <li><a href="">Funciones avanzadas</a></li>
-    <li><a href="">Vistas</a></li>
-    <li><a href="">Indices</a></li>
-    <li><a href="">Transacciones</a></li>
-    <li><a href="">Optimización</a></li>
-    <li><a href="">Conceptos avanzados</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/03-sql/01-introduccion.md">Introducción</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/03-sql/02-sintaxis_basica.md">Sintaxis básica</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/03-sql/03-lenguaje_de_definicion_de_datos.md">Lenguaje de definición de datos</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/03-sql/04-lenguaje_de_manipulacion_de_datos.md">Lenguaje de manipulación de datos</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/03-sql/05-consultas_agregadas.md">Consultas agregadas</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/03-sql/06-restricciones_de_datos.md">Restricciones de datos</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/03-sql/07-consultas_de_union.md">Consultas de union</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/03-sql/08-sub_consultas.md">Sub consultas</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/03-sql/09-funciones_avanzadas.md">Funciones avanzadas</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/03-sql/10-vistas.md">Vistas</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/03-sql/11-indices.md">Indices</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/03-sql/12-transacciones.md">Transacciones</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/03-sql/13-optimizacion.md">Optimización</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/03-sql/14-conceptos_avanzados.md">Conceptos avanzados</a></li>
 </details>
 <!-- [FIN]SQL -->
 
