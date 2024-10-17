@@ -8,6 +8,10 @@ Este repositorio recopila apuntes de programación realizados durante un repaso 
 - [🧩 Misceláneos](#-misceláneos)
 - [☕ Java](#-java)
 - [🛢️ SQL](#️-sql)
+- [🎨 CSS](#-css)
+- [🚀 JavaScript](#-javascript)
+- [🔒 TypeScript](#-typescript)
+- [🌱 NodeJs](#-nodejs)
 
 ## 🧠 Conceptos
 
@@ -490,6 +494,49 @@ Este repositorio recopila apuntes de programación realizados durante un repaso 
 ---
 
 <!-- ## 🩻 HTML
+
+<!-- Fundamentos -->
+<details>
+  <summary>📁 Fundamentos</summary>
+  <ul>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/04-html/01-fundamentos/01-introduccion.md">Introducción</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/04-html/01-fundamentos/02-elementos.md">Elementos</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/04-html/01-fundamentos/03-etiquetas.md">Etiquetas</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/04-html/01-fundamentos/04-atributos.md">Atributos</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/04-html/01-fundamentos/05-comportamiento.md">Comportamiento</a></li>
+</details>
+<!-- [FIN]Fundamentos -->
+
+<!-- Cabecera -->
+<details>
+  <summary>📁 Cabecera</summary>
+  <ul>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/04-html/02-cabecera/01-head.md">Head</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/04-html/02-cabecera/02-meta.md">Meta</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/04-html/02-cabecera/03-link.md">Link</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/04-html/02-cabecera/04-script.md">Script</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/04-html/02-cabecera/05-favicon.md">FavIcon</a></li>
+</details>
+<!-- [FIN]Cabecera -->
+
+<!-- Elementos -->
+<details>
+  <summary>📁 Elementos</summary>
+  <ul>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/04-html/03-elementos/01-semanticos.md">Semánticos</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/04-html/03-elementos/02-textos.md">Textos</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/04-html/03-elementos/03-enlaces.md">Enlaces</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/04-html/03-elementos/04-listas.md">Listas</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/04-html/03-elementos/05-tablas.md">Tablas</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/04-html/03-elementos/06-formularios.md">Formularios</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/04-html/03-elementos/07-imagenes.md">Imágenes</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/04-html/03-elementos/08-audio_video.md">Audio y Video</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/04-html/03-elementos/09-objetos_externos.md">Objetos externos</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/04-html/03-elementos/10-map.md">Map</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/04-html/03-elementos/11-etiquetas_interactivas.md">Etiquetas interactivas</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/04-html/03-elementos/12-templates.md">Templates</a></li>
+</details>
+<!-- [FIN]Elementos -->
 
 ---
 
