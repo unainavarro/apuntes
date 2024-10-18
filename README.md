@@ -572,7 +572,15 @@ Este repositorio recopila apuntes de programación realizados durante un repaso 
 <details>
   <summary>📁 Flexbox</summary>
   <ul>
-    <li><a href=""></a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/05-css/02-flexbox/01-introduccion.md">Introducción</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/05-css/02-flexbox/02-flujo_de_flexbox.md">Flujo de flexbox</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/05-css/02-flexbox/03-eje_principal.md">Eje principal</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/05-css/02-flexbox/04-eje_transversal.md">Eje transversal</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/05-css/02-flexbox/05-tama%C3%B1o_hijos.md">Tamaño hijos</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/05-css/02-flexbox/06-mover_hijos.md">Mover hijos</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/05-css/02-flexbox/07-ordenar_hijos.md">Ordenar hijos</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/05-css/02-flexbox/08-wrap.md">Wrap</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/05-css/02-flexbox/09-gap.md">Gap</a></li>
 </details>
 <!-- [FIN]Flexbox -->
 
@@ -580,7 +588,13 @@ Este repositorio recopila apuntes de programación realizados durante un repaso 
 <details>
   <summary>📁 Grid</summary>
   <ul>
-    <li><a href=""></a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/05-css/03-grid/01-introduccion.md">Introducción</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/05-css/03-grid/02-explicito.md">Explicito</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/05-css/03-grid/03-implicito.md">Implícito</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/05-css/03-grid/04-lineas.md">Líneas</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/05-css/03-grid/05-areas.md">Áreas</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/05-css/03-grid/06-autofill_autofit.md">Autofill y Autofit</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/05-css/03-grid/07-mover_items.md">Mover items</a></li>
 </details>
 <!-- [FIN]Grid -->
 
