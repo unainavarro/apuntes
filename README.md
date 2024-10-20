@@ -10,6 +10,10 @@ Este repositorio recopila apuntes de programación realizados durante un repaso 
 - [🛢️ SQL](#️-sql)
 - [🩻 HTML](#-html)
 - [🎨 CSS](#-css)
+- [🚀 JavaScript](#-javascript)
+
+> [!WARNING]
+> Estos apuntes fueron publicados en 2024, pero contienen información más antigua. Actualmente, estoy en proceso de reorganizar, actualizar el contenido y crear una página web para facilitar el acceso a la información.
 
 ## 🧠 Conceptos
 
@@ -637,11 +641,99 @@ Este repositorio recopila apuntes de programación realizados durante un repaso 
 
 ---
 
-<!-- ## 🚀 JavaScript
+## 🚀 JavaScript
+
+<!-- Fundamentos -->
+<details>
+  <summary>📁 Fundamentos</summary>
+  <ul>
+    <li><a href="">Introducción</a></li>
+</details>
+<!-- [FIN]Fundamentos -->
+
+<!-- Control de flujo -->
+<details>
+  <summary>📁 Control de flujo</summary>
+  <ul>
+    <li><a href="">Introducción</a></li>
+</details>
+<!-- [FIN]Control de flujo -->
+
+<!-- Funciones -->
+<details>
+  <summary>📁 Funciones</summary>
+  <ul>
+    <li><a href="">Introducción</a></li>
+</details>
+<!-- [FIN]Funciones -->
+
+<!-- Objetos incorporados -->
+<details>
+  <summary>📁 Objetos incorporados</summary>
+  <ul>
+    <li><a href="">Introducción</a></li>
+</details>
+<!-- [FIN]Objetos incorporados -->
+
+<!-- Manipular objetos -->
+<details>
+  <summary>📁 Manipular objetos</summary>
+  <ul>
+    <li><a href="">Introducción</a></li>
+</details>
+<!-- [FIN]Manipular objetos -->
+
+<!-- Estructura de datos -->
+<details>
+  <summary>📁 Estructura de datos</summary>
+  <ul>
+    <li><a href="">Introducción</a></li>
+</details>
+<!-- [FIN]Estructura de datos -->
+
+<!-- Almacenamiento -->
+<details>
+  <summary>📁 Almacenamiento</summary>
+  <ul>
+    <li><a href="">Introducción</a></li>
+</details>
+<!-- [FIN]Almacenamiento -->
+
+<!-- POO -->
+<details>
+  <summary>📁 POO</summary>
+  <ul>
+    <li><a href="">Introducción</a></li>
+</details>
+<!-- [FIN]POO -->
+
+<!-- Asíncrono -->
+<details>
+  <summary>📁 Asíncrono</summary>
+  <ul>
+    <li><a href="">Introducción</a></li>
+</details>
+<!-- [FIN]Asíncrono -->
+
+<!-- BOOM -->
+<details>
+  <summary>📁 BOOM</summary>
+  <ul>
+    <li><a href="">Introducción</a></li>
+</details>
+<!-- [FIN]BOOM -->
+
+<!-- DOM -->
+<details>
+  <summary>📁 DOM</summary>
+  <ul>
+    <li><a href="">Introducción</a></li>
+</details>
+<!-- [FIN]DOM -->
 
 ---
 
-## 🔒 TypeScript
+<!-- ## 🔒 TypeScript
 
 ---
 
