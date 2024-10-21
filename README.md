@@ -11,6 +11,7 @@ Este repositorio recopila apuntes de programación realizados durante un repaso 
 - [🩻 HTML](#-html)
 - [🎨 CSS](#-css)
 - [🚀 JavaScript](#-javascript)
+- [🔒 TypeScript](#-typescript)
 
 > [!WARNING]
 > Estos apuntes fueron publicados en 2024, pero contienen información más antigua. Actualmente, estoy en proceso de reorganizar, actualizar el contenido y crear una página web para facilitar el acceso a la información.
@@ -778,8 +779,14 @@ Este repositorio recopila apuntes de programación realizados durante un repaso 
 
 ---
 
-<!-- ## 🔒 TypeScript
+## 🔒 TypeScript
+
+<!-- TS -->
+<details>
+  <summary>📁 TS</summary>
+  <ul>
+    <li><a href=""></a></li>
+</details>
+<!-- [FIN]TS -->
 
 ---
-
- -->
