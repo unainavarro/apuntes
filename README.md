@@ -793,10 +793,10 @@ Este repositorio recopila apuntes de programación realizados durante un repaso 
     <li><a href="https://github.com/unainavarro/apuntes/blob/main/07-typescript/06-tipos_guard_narrowing.md">Tipos guard narrowing</a></li>
     <li><a href="https://github.com/unainavarro/apuntes/blob/main/07-typescript/07-funciones.md">Funciones</a></li>
     <li><a href="https://github.com/unainavarro/apuntes/blob/main/07-typescript/08-interfaces.md">Interfaces</a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/07-typescript/09-clases.md">Clases</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/07-typescript/10-genericos.md">Genéricos</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/07-typescript/11-decoradores.md">Decoradores</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/07-typescript/12-tipos_utilidad.md">Tipos utilidad</a></li>
     <li><a href=""></a></li>
     <li><a href=""></a></li>
     <li><a href=""></a></li>
