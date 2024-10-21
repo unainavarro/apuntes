@@ -797,9 +797,9 @@ Este repositorio recopila apuntes de programación realizados durante un repaso 
     <li><a href="https://github.com/unainavarro/apuntes/blob/main/07-typescript/10-genericos.md">Genéricos</a></li>
     <li><a href="https://github.com/unainavarro/apuntes/blob/main/07-typescript/11-decoradores.md">Decoradores</a></li>
     <li><a href="https://github.com/unainavarro/apuntes/blob/main/07-typescript/12-tipos_utilidad.md">Tipos utilidad</a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/07-typescript/13-tipos_avanzados.md">Tipos avanzados</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/07-typescript/14-modulos.md">Módulos</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/07-typescript/15-ecosistema.md">Ecosistema</a></li>
 </details>
 <!-- [FIN]TS -->
 
