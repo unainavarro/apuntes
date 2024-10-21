@@ -785,7 +785,10 @@ Este repositorio recopila apuntes de programación realizados durante un repaso 
 <details>
   <summary>📁 TS</summary>
   <ul>
-    <li><a href=""></a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/07-typescript/01-introduccion.md">Introducción</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/07-typescript/02-tipos_primitivos.md">Tipos primitivos</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/07-typescript/03-tipos_objetos.md">Tipos objetos</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/07-typescript/04-tipos_afirmaciones.md">Tipos afirmaciones</a></li>
 </details>
 <!-- [FIN]TS -->
 
