@@ -789,6 +789,17 @@ Este repositorio recopila apuntes de programación realizados durante un repaso 
     <li><a href="https://github.com/unainavarro/apuntes/blob/main/07-typescript/02-tipos_primitivos.md">Tipos primitivos</a></li>
     <li><a href="https://github.com/unainavarro/apuntes/blob/main/07-typescript/03-tipos_objetos.md">Tipos objetos</a></li>
     <li><a href="https://github.com/unainavarro/apuntes/blob/main/07-typescript/04-tipos_afirmaciones.md">Tipos afirmaciones</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/07-typescript/05-tipos_combinaciones.md">Tipos combinaciones</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/07-typescript/06-tipos_guard_narrowing.md">Tipos guard narrowing</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/07-typescript/07-funciones.md">Funciones</a></li>
+    <li><a href="https://github.com/unainavarro/apuntes/blob/main/07-typescript/08-interfaces.md">Interfaces</a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
 </details>
 <!-- [FIN]TS -->
 
